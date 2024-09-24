@@ -4,7 +4,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:954/1*HBOmuBdmml4HzEJ5uWRmbQ.png" alt="OpenCV" width="600">
 
   ---
-  Track hands, head and you have 3 cubes that you can pick up,move,drop.
+  Track your hands and head, and you have three cubes that you can pick up, move, and drop.
 
   ## Demo:
   ![Demo](https://github.com/user-attachments/assets/0b0c8727-d6ed-4fb4-af4a-99c68985de98)
