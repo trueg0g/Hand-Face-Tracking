@@ -9,5 +9,7 @@
   ## Demo:
   ![Demo](https://github.com/user-attachments/assets/0b0c8727-d6ed-4fb4-af4a-99c68985de98)
 
-  
+  ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 </p>
