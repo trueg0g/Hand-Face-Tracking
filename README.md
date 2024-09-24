@@ -6,7 +6,7 @@
   ---
   Track hands, head and you have 3 cubes that you can pick up,move,drop.
 
-  ## Demo:
+  ## Demo:##
   ![Demo](https://github.com/user-attachments/assets/0b0c8727-d6ed-4fb4-af4a-99c68985de98)
 
   
